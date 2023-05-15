@@ -21,3 +21,7 @@
   width: 100%;
   height: 100%;
 }
+
+.numberedButtons.active {
+  background-color: #007bff;
+}
